@@ -3,6 +3,10 @@
 
 ## In the second phase of the project, I 
 
-![image](https://github.com/user-attachments/assets/9d7a4e75-e746-425c-955b-bb2183b0aed6)
+![image](https://github.com/user-attachments/assets/6f01a5f8-2f33-4b45-a166-f5ff9cada94e)
 
 ![image](https://github.com/user-attachments/assets/8dc1882a-d6a2-4513-a349-3823c9440a3f)
+
+![image](https://github.com/user-attachments/assets/9d7a4e75-e746-425c-955b-bb2183b0aed6)
+
+![image](https://github.com/user-attachments/assets/c95d0e8b-9a3c-4ba7-9527-80bcd3a56861)
