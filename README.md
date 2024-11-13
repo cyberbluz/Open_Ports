@@ -1,7 +1,7 @@
 # All Ports Are Open...  The HoneyNet is set!
 ![image](https://github.com/user-attachments/assets/4cbcb3ec-5ecc-4575-b0c4-06c6eae318f9)
 
-## In the second phase of the project,  I accessed both Network Security Groups and created a new rule     (⚠️Danger_AllowAnyCustomInboundTraffic)     opening both VMs to all Inbound Internet Traffic.  
+## In the second phase of the project,  I accessed both Network Security Groups and created a new rule                     (⚠️Danger_AllowAnyCustomInboundTraffic)     opening both VMs to all Inbound Internet Traffic.  
 
 ![image](https://github.com/user-attachments/assets/6f01a5f8-2f33-4b45-a166-f5ff9cada94e)
 
