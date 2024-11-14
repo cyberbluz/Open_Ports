@@ -7,7 +7,7 @@
 
 ![image](https://github.com/user-attachments/assets/8dc1882a-d6a2-4513-a349-3823c9440a3f)
 
-## After allowing plenty of time for the activity logs to record any malicious traffic, I accessed Azur's Log Analytics Workspace and reviewed the Logs of both VMs.
+## After allowing plenty of time for the activity logs to record any malicious traffic, I accessed Azure's Log Analytics Workspace and reviewed the Logs of both VMs.
 ![image](https://github.com/user-attachments/assets/9d7a4e75-e746-425c-955b-bb2183b0aed6)
 
 ## Unsurprisingly, I found hundreds of failed login attempts (mostly Brute Force attempts). I also used RDP to access the Linux VM (auth.log) and using the (grep) command narrowed the search down to show only failed "Password" attempts.
