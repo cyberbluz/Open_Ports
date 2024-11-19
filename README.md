@@ -20,15 +20,16 @@
 ## Using MS Sentinel Analytics, I was able to establish security alerts to notify me of Brute Force attempts, Firewall Tampering, Malware, and other types of malicious incidents. I was also able to create maps using ip geolocation data to map out bad actors across the globe attempting to breach my network. 
 ---
 ## Attack Maps Before Hardening / Security Controls
-![image](https://github.com/user-attachments/assets/ff9363cc-d4ae-425a-97f7-4cd9aa861cc1)
-![image](https://github.com/user-attachments/assets/734bc45f-ee56-432d-9533-d661afd17e30)
+
+![image](https://github.com/user-attachments/assets/30374a6c-f678-4c79-a90d-c318fe49aac6)
+![image](https://github.com/user-attachments/assets/81a14b25-9319-4d3a-8b54-148e44e37bf1)
 ![image](https://github.com/user-attachments/assets/09ff8c60-71da-44de-b119-c7af63b60313)
 ---
 ## Metrics Before Hardening / Security Controls
 
 ![image](https://github.com/user-attachments/assets/9cd4666c-0f88-484c-9167-186613a2a9ae)
 
-## In the next phase of the project, I will implement NIST 800-61 Incident Handling Guide and respond to several alerts created by MS Sentinel.
+## In the next phase of the project, I will implement NIST 800-61 Incident Handling Guide and analyze several alerts created by MS Sentinel.
 # [Detection & Analysis](https://github.com/cyberbluz/Detection-and-Analysis)
 ----
 ----
